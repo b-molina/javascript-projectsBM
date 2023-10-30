@@ -2,6 +2,7 @@ let num = 1001;
 
 //Returns 'undefined'.
 console.log(num.length);
+hello
 
 //Use type conversion to print the length (number of digits) of an integer.
 
